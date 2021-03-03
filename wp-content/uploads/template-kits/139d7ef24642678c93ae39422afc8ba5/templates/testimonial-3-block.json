@@ -1,0 +1,195 @@
+{
+    "version": "0.4",
+    "title": "Testimonial &#8211; 3 &#8211; Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "32d1e372",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "130",
+                    "right": "0",
+                    "bottom": "130",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "60",
+                    "right": "0",
+                    "bottom": "60",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5c9fd9c0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "1",
+                            "bottom": "0",
+                            "left": "1",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "a325d60",
+                            "settings": {
+                                "image": {
+                                    "url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-tes-bg.jpg",
+                                    "id": 322
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "1140",
+                                    "height": "400"
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "58cfd7f7",
+                            "settings": {
+                                "testimonial_content": "Laoreet percipit nec id nostro salutandi in vel, virtute phae drum atomorum eum ad. Mea id etiam ceteros mentitum. Mel eu impetus omnesque accusata,",
+                                "testimonial_image": {
+                                    "url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/user-img.jpg",
+                                    "id": 512
+                                },
+                                "testimonial_name": "Raymong Harper",
+                                "testimonial_job": "Designer",
+                                "content_content_color": "#8A8A8A",
+                                "content_typography_typography": "custom",
+                                "content_typography_font_family": "Poppins",
+                                "content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "content_typography_font_weight": "400",
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                },
+                                "name_text_color": "#2D2D2D",
+                                "name_typography_typography": "custom",
+                                "name_typography_font_family": "Poppins",
+                                "name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "job_text_color": "#8A8A8A",
+                                "job_typography_typography": "custom",
+                                "job_typography_font_family": "Poppins",
+                                "job_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "40",
+                                    "right": "40",
+                                    "bottom": "40",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "_background_background": "classic",
+                                "_background_color": "#FFFFFF",
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "_box_shadow_box_shadow_type": "yes",
+                                "_box_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 2,
+                                    "blur": 20,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.16)"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-130",
+                                    "right": "150",
+                                    "bottom": "0",
+                                    "left": "150",
+                                    "isLinked": false
+                                },
+                                "content_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "_margin_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "5",
+                                    "bottom": "5",
+                                    "left": "5",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,3192 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "FoodKit - Restaurant Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Hero - 2 - Block",
+            "screenshot": "screenshots\/hero-2-block.jpg",
+            "source": "templates\/hero-2-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/hero-2-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home page 1",
+            "screenshot": "screenshots\/home-page-1.jpg",
+            "source": "templates\/home-page-1.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/home-page-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial - 1 - Block",
+            "screenshot": "screenshots\/testimonial-1-block.jpg",
+            "source": "templates\/testimonial-1-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/testimonial-1-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery - Block",
+            "screenshot": "screenshots\/gallery-block.jpg",
+            "source": "templates\/gallery-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/gallery-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero - 3 - Block",
+            "screenshot": "screenshots\/hero-3-block.jpg",
+            "source": "templates\/hero-3-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/hero-3-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cta - 3 - Block",
+            "screenshot": "screenshots\/cta-3-block.jpg",
+            "source": "templates\/cta-3-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/cta-3-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cta - 2 - Block",
+            "screenshot": "screenshots\/cta-2-block.jpg",
+            "source": "templates\/cta-2-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/cta-2-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Cta - 1 - Block",
+            "screenshot": "screenshots\/cta-1-block.jpg",
+            "source": "templates\/cta-1-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/cta-1-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About - 2 - Block",
+            "screenshot": "screenshots\/about-2-block.jpg",
+            "source": "templates\/about-2-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/about-2-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About - 1 - Block",
+            "screenshot": "screenshots\/about-1-block.jpg",
+            "source": "templates\/about-1-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/about-1-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer - Block",
+            "screenshot": "screenshots\/footer-block.jpg",
+            "source": "templates\/footer-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/footer-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial - 3 - Block",
+            "screenshot": "screenshots\/testimonial-3-block.jpg",
+            "source": "templates\/testimonial-3-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/testimonial-3-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us 2",
+            "screenshot": "screenshots\/about-us-2.jpg",
+            "source": "templates\/about-us-2.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/about-us-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About us 1",
+            "screenshot": "screenshots\/about-us-1.jpg",
+            "source": "templates\/about-us-1.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/about-us-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/event-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menus",
+            "screenshot": "screenshots\/menus.jpg",
+            "source": "templates\/menus.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/menus\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Page 3",
+            "screenshot": "screenshots\/home-page-3.jpg",
+            "source": "templates\/home-page-3.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/home-page-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Page 2",
+            "screenshot": "screenshots\/home-page-2.jpg",
+            "source": "templates\/home-page-2.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/home-page-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial - 2 - Block",
+            "screenshot": "screenshots\/testimonial-2-block.jpg",
+            "source": "templates\/testimonial-2-block.json",
+            "preview_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/template-kit\/testimonial-2-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "hero-bg-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/hero-bg-img-2-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hero-2-block.json",
+                    "name": "Hero - 2 - Block"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 275569,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/messy-pizza-on-a-black-table\/"
+        },
+        {
+            "filename": "hero-bg-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/hero-bg-img-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 225199,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/messy-pizza-on-a-black-table\/"
+        },
+        {
+            "filename": "about-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/about-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-1-block.json",
+                    "name": "About - 1 - Block"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 9764,
+            "dimensions": [
+                1931,
+                694
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-1-block.json",
+                    "name": "About - 1 - Block"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 83090,
+            "dimensions": [
+                700,
+                1060
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/grilling-meat-skewers\/"
+        },
+        {
+            "filename": "img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-1-block.json",
+                    "name": "About - 1 - Block"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 139406,
+            "dimensions": [
+                700,
+                1060
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/white-cream-on-white-bowl-1633525\/"
+        },
+        {
+            "filename": "img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-1-block.json",
+                    "name": "About - 1 - Block"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 91752,
+            "dimensions": [
+                470,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/rosemary-lamb-shanks-with-mushrooms-and-vegetables-on-wine"
+        },
+        {
+            "filename": "img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-1-block.json",
+                    "name": "About - 1 - Block"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 81919,
+            "dimensions": [
+                470,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/cooked-sausage-929137\/"
+        },
+        {
+            "filename": "hs-bg.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/hs-bg-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 275693,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/L6GAPZIhmA0"
+        },
+        {
+            "filename": "hs-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 59122,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/gp9LCx1TKRE"
+        },
+        {
+            "filename": "hs-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 82682,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/1633578"
+        },
+        {
+            "filename": "hs-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 79474,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yeEoMHtkCuM"
+        },
+        {
+            "filename": "hs-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 67558,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/jpkfc5_d-DI"
+        },
+        {
+            "filename": "hs-img-5.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 77867,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/club-sandwich-served-on-chopping-board-1600711\/"
+        },
+        {
+            "filename": "hs-img-6.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hs-img-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 212893,
+            "dimensions": [
+                540,
+                660
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/fried-rice-with-shrimps\/"
+        },
+        {
+            "filename": "pd-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/pd-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 193980,
+            "dimensions": [
+                740,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/l4OSEZZSQuQ"
+        },
+        {
+            "filename": "pd-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/pd-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 38759,
+            "dimensions": [
+                740,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2DV8y3LU7Ac"
+        },
+        {
+            "filename": "pd-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/pd-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                }
+            ],
+            "filesize": 211283,
+            "dimensions": [
+                740,
+                960
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/T5T1mPwYAGA"
+        },
+        {
+            "filename": "counter-bg.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/counter-bg-600x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 93018,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/cakes-chocolate-close-up-cupcakes-959079"
+        },
+        {
+            "filename": "hm-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 14881,
+            "dimensions": [
+                1920,
+                1231
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hm-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 79059,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/-O3wkh2jZyo"
+        },
+        {
+            "filename": "hm-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 158113,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rAyCBQTH7ws"
+        },
+        {
+            "filename": "hm-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 149269,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1SPu0KT-Ejg"
+        },
+        {
+            "filename": "hm-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 70090,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/d0UEoXDvJ5I"
+        },
+        {
+            "filename": "hm-img-5.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 48776,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/szQFiGZH8wU"
+        },
+        {
+            "filename": "hm-img-6.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 29356,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/g9jFg1utz1w"
+        },
+        {
+            "filename": "hm-img-7.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 59851,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Yr4n8O_3UPc"
+        },
+        {
+            "filename": "hm-img-8.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 63480,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/YuKwHTNVAiI"
+        },
+        {
+            "filename": "hm-img-9.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 54412,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/vegetale-and-meat-sandwhich-133578\/"
+        },
+        {
+            "filename": "hm-img-10.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/hm-img-10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 65324,
+            "dimensions": [
+                510,
+                411
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nBJHO6wmRWw"
+        },
+        {
+            "filename": "c2a-bg-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/c2a-bg-1-600x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/cta-1-block.json",
+                    "name": "Cta - 1 - Block"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 275186,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/board-bread-breakfast-bunch-349610\/"
+        },
+        {
+            "filename": "c2a-bg-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/c2a-bg-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/cta-2-block.json",
+                    "name": "Cta - 2 - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 199343,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/restaurant-bottles-dinner-lunch-66640\/"
+        },
+        {
+            "filename": "blob-img-2.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/blob-img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/cta-2-block.json",
+                    "name": "Cta - 2 - Block"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 82765,
+            "dimensions": [
+                560,
+                551
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/U6-KvV7HlMk"
+        },
+        {
+            "filename": "testimonial.bg_.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/testimonial.bg_-600x272.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/testimonial-1-block.json",
+                    "name": "Testimonial - 1 - Block"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 71134,
+            "dimensions": [
+                1920,
+                870
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "tes-bg-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/tes-bg-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/testimonial-1-block.json",
+                    "name": "Testimonial - 1 - Block"
+                }
+            ],
+            "filesize": 152563,
+            "dimensions": [
+                945,
+                610
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rheOvfxOlOA"
+        },
+        {
+            "filename": "user-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/user-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/testimonial-1-block.json",
+                    "name": "Testimonial - 1 - Block"
+                },
+                {
+                    "source": "templates\/testimonial-3-block.json",
+                    "name": "Testimonial - 3 - Block"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/testimonial-2-block.json",
+                    "name": "Testimonial - 2 - Block"
+                }
+            ],
+            "filesize": 13501,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/summerfield-woman-girl-sunset-336672\/"
+        },
+        {
+            "filename": "gal-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 116210,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UtcOhVC-3VU"
+        },
+        {
+            "filename": "gal-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 118999,
+            "dimensions": [
+                1400,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/blur-close-up-cutlery-dining-370984\/"
+        },
+        {
+            "filename": "gal-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 279238,
+            "dimensions": [
+                1200,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/oaz0raysASk"
+        },
+        {
+            "filename": "gal-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 121386,
+            "dimensions": [
+                1200,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/burrito-chicken-delicious-dinner-461198\/"
+        },
+        {
+            "filename": "gal-img-5.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 176864,
+            "dimensions": [
+                1200,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/orange-cheese-pancakes\/"
+        },
+        {
+            "filename": "gal-img-6.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 158610,
+            "dimensions": [
+                1200,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/awj7sRviVXo"
+        },
+        {
+            "filename": "gal-img-7.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 174663,
+            "dimensions": [
+                1400,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/two-coffee-cappuccino-and-waffle"
+        },
+        {
+            "filename": "gal-img-8.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/gal-img-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/gallery-block.json",
+                    "name": "Gallery - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 192662,
+            "dimensions": [
+                1200,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/auIbTAcSH6E"
+        },
+        {
+            "filename": "sub-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/sub-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 11684,
+            "dimensions": [
+                1920,
+                776
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "sub-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/sub-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 207461,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/viUQ9_iuFek"
+        },
+        {
+            "filename": "foodkit-logo.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/foodkit-logo-600x246.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/footer-block.json",
+                    "name": "Footer - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 33462,
+            "dimensions": [
+                697,
+                286
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "foot-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/foot-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/footer-block.json",
+                    "name": "Footer - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 116691,
+            "dimensions": [
+                525,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/empty-dining-tables-and-chairs-1579739\/"
+        },
+        {
+            "filename": "foot-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/foot-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/footer-block.json",
+                    "name": "Footer - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 104271,
+            "dimensions": [
+                525,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Qpdq5gDiOfo"
+        },
+        {
+            "filename": "foot-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/foot-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/footer-block.json",
+                    "name": "Footer - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 24853,
+            "dimensions": [
+                525,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/1Qt-W4BGrgc"
+        },
+        {
+            "filename": "foot-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/foot-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-1.json",
+                    "name": "Home page 1"
+                },
+                {
+                    "source": "templates\/footer-block.json",
+                    "name": "Footer - Block"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 31732,
+            "dimensions": [
+                525,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/rAyCBQTH7ws"
+        },
+        {
+            "filename": "hero-bg-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/hero-bg-img-3-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hero-3-block.json",
+                    "name": "Hero - 3 - Block"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 229825,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4J059aGa5s4"
+        },
+        {
+            "filename": "h3-c2a-bg-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h3-c2a-bg-1-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/cta-3-block.json",
+                    "name": "Cta - 3 - Block"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 236840,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/nicely-served-burgers\/"
+        },
+        {
+            "filename": "h2-about-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-about-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/about-2-block.json",
+                    "name": "About - 2 - Block"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 5080,
+            "dimensions": [
+                1920,
+                860
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "h2-about-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-about-img-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-2-block.json",
+                    "name": "About - 2 - Block"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 184300,
+            "dimensions": [
+                1920,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/dinner-salad-restaurant-italians-939434\/"
+        },
+        {
+            "filename": "h3-tes-bg.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-tes-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial-3-block.json",
+                    "name": "Testimonial - 3 - Block"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 189064,
+            "dimensions": [
+                1170,
+                700
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/hrlvr2ZlUNk"
+        },
+        {
+            "filename": "gallery-bg-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/gallery-bg-img-600x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 195750,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "404-for-food.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/404-for-food-600x245.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 85046,
+            "dimensions": [
+                954,
+                389
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "about-bg-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-bg-img-600x188.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 211774,
+            "dimensions": [
+                1920,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/pancake-on-plate-2113556\/"
+        },
+        {
+            "filename": "h3-pf-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-pf-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 86352,
+            "dimensions": [
+                660,
+                480
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/fried-rice-menu-for-lunch-dinner-2509080\/"
+        },
+        {
+            "filename": "h2-c2a-bg-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-c2a-bg-1-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 273680,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/close-up-of-salad-on-table-326281\/"
+        },
+        {
+            "filename": "h2-service-icon-1.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-service-icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 5715,
+            "dimensions": [
+                151,
+                159
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "h2-service-icon-2.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-service-icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 7274,
+            "dimensions": [
+                151,
+                158
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "h2-exp-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-exp-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 10426,
+            "dimensions": [
+                1920,
+                757
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "about-2-img-1.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-2-img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 86569,
+            "dimensions": [
+                479,
+                478
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/cookies-on-square-white-ceramic-plate-890577\/"
+        },
+        {
+            "filename": "about-2-img-3.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-2-img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 43611,
+            "dimensions": [
+                479,
+                478
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/white-and-yellow-cupcake-with-fruit-toppings-1055270\/"
+        },
+        {
+            "filename": "about-2-img-2.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-2-img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 71114,
+            "dimensions": [
+                479,
+                478
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/vegetable-sandwich-on-plate-1095550\/"
+        },
+        {
+            "filename": "about-2-img-4.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-2-img-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                }
+            ],
+            "filesize": 48472,
+            "dimensions": [
+                479,
+                478
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/donuts-pastries-kringel-cake-candy-4633066\/"
+        },
+        {
+            "filename": "h3-hm-bg.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h3-hm-bg-600x346.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 224922,
+            "dimensions": [
+                1920,
+                1108
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/wMzx2nBdeng"
+        },
+        {
+            "filename": "h2-tes-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-tes-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/testimonial-2-block.json",
+                    "name": "Testimonial - 2 - Block"
+                }
+            ],
+            "filesize": 4308,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-black-couple-jogging-in-brooklyn-street-PQ9A2UV"
+        },
+        {
+            "filename": "h2-tes-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-tes-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-2.json",
+                    "name": "About Us 2"
+                },
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                },
+                {
+                    "source": "templates\/testimonial-2-block.json",
+                    "name": "Testimonial - 2 - Block"
+                }
+            ],
+            "filesize": 4311,
+            "dimensions": [
+                1920,
+                580
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "contact-bg-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/contact-bg-img-600x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                }
+            ],
+            "filesize": 250617,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/E6HjQaB7UEA"
+        },
+        {
+            "filename": "about-us-bg-img1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-us-bg-img1-600x219.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 155066,
+            "dimensions": [
+                1920,
+                700
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/black-ceramic-bowl-with-food-3828366\/"
+        },
+        {
+            "filename": "about-wwo-img-2.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-wwo-img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 203773,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/architecture-auditorium-blue-bright-colours-382297\/"
+        },
+        {
+            "filename": "about-wwo-img-1.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-wwo-img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 144830,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "349749"
+        },
+        {
+            "filename": "about-wwo-img-3.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-wwo-img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 202845,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/pancake-on-plate-2113556\/"
+        },
+        {
+            "filename": "about-wwo-img-5.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-wwo-img-5.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 189642,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/adults-audience-band-concert-167517\/"
+        },
+        {
+            "filename": "about-wwo-img-4.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/about-wwo-img-4.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                }
+            ],
+            "filesize": 179708,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/photo-of-people-on-concert-1928131\/"
+        },
+        {
+            "filename": "event-img3.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img3.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 209334,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/food-snack-popcorn-movie-theater-33129\/"
+        },
+        {
+            "filename": "h2-exp-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-exp-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 82859,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QaGDmf5tMiE"
+        },
+        {
+            "filename": "h2-exp-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-exp-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 52283,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/plate-of-rice-and-cooked-meat-1624487\/"
+        },
+        {
+            "filename": "h2-exp-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-exp-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 201158,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QaGDmf5tMiE"
+        },
+        {
+            "filename": "h2-exp-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-exp-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us-1.json",
+                    "name": "About us 1"
+                },
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 135995,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/lunch-table-5929\/"
+        },
+        {
+            "filename": "event-detail-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-detail-img-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 151745,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/piza-food-cheese-plate-lunch-3010062\/"
+        },
+        {
+            "filename": "event-detail-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-detail-img-1-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 120370,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/restaurant-food-lunch-dinner-691397\/"
+        },
+        {
+            "filename": "event-detail-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-detail-img-2-600x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 244357,
+            "dimensions": [
+                1200,
+                900
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/pizza-ready-for-baking\/"
+        },
+        {
+            "filename": "event-bg-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-bg-img-600x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 235407,
+            "dimensions": [
+                1920,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/RygIdTavhkQ"
+        },
+        {
+            "filename": "event-img-2.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img-2.png",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 159468,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/3wzps8KbdCQ"
+        },
+        {
+            "filename": "event-img-1.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img-1.png",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 188822,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/aEnH4hJ_Mrs"
+        },
+        {
+            "filename": "event-img-3.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img-3.png",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 183232,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/food-gourmet-restaurant-meal-2121824\/"
+        },
+        {
+            "filename": "event-img-4.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img-4.png",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 220401,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/pizza-ready-for-baking\/"
+        },
+        {
+            "filename": "event-img-5.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/event-img-5.png",
+            "templates": [
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 192163,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/piza-food-cheese-plate-lunch-3010062\/"
+        },
+        {
+            "filename": "neon-light-decor-lot-2418496.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/neon-light-decor-lot-2418496.png",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 186499,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2418496"
+        },
+        {
+            "filename": "thomas-tucker-MNtag_eXMKw-unsplash.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/thomas-tucker-MNtag_eXMKw-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                }
+            ],
+            "filesize": 232781,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/MNtag_eXMKw"
+        },
+        {
+            "filename": "h2-sub-img.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-sub-img-600x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/menus.json",
+                    "name": "Menus"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 260448,
+            "dimensions": [
+                1920,
+                1350
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/M4E7X3z80PQ"
+        },
+        {
+            "filename": "contact-bg-img1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/contact-bg-img1-600x125.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 76747,
+            "dimensions": [
+                1920,
+                400
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/X_bbCAYzlTs"
+        },
+        {
+            "filename": "h2-subs-bg.png",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-subs-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 14021,
+            "dimensions": [
+                1920,
+                1124
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "h3-hww-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h3-hww-img-1-600x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 60719,
+            "dimensions": [
+                740,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/E2HgkL3LaFE"
+        },
+        {
+            "filename": "h3-hww-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h3-hww-img-2-600x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 23451,
+            "dimensions": [
+                740,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/gp8BLyaTaA0"
+        },
+        {
+            "filename": "h3-hww-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-hww-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 183500,
+            "dimensions": [
+                740,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/9vDdkxSCAD4"
+        },
+        {
+            "filename": "h3-pf-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-pf-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 91119,
+            "dimensions": [
+                660,
+                480
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/fried-rice-chinese-asian-food-3710741\/"
+        },
+        {
+            "filename": "h3-pf-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-pf-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 75135,
+            "dimensions": [
+                660,
+                480
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/kimchi-fried-rice-fried-rice-rice-241051\/"
+        },
+        {
+            "filename": "h3-ps-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-ps-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 39280,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/orange-cheese-pancakes\/"
+        },
+        {
+            "filename": "h3-ps-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-ps-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 95093,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/UeYkqQh4PoI"
+        },
+        {
+            "filename": "h3-ps-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-ps-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 63995,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/cooked-foods-750073\/"
+        },
+        {
+            "filename": "h3-ps-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h3-ps-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-3.json",
+                    "name": "Home Page 3"
+                }
+            ],
+            "filesize": 49967,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/jpkfc5_d-DI"
+        },
+        {
+            "filename": "h2-feat-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-feat-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 115628,
+            "dimensions": [
+                740,
+                760
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.pexels.com\/photo\/cooked-meat-with-vegetables-725991\/"
+        },
+        {
+            "filename": "h2-feat-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-feat-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 125275,
+            "dimensions": [
+                740,
+                760
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/food-gourmet-restaurant-meal-2121822\/"
+        },
+        {
+            "filename": "h2-feat-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-feat-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 92579,
+            "dimensions": [
+                740,
+                760
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/christmas-dinner-dessert-christmas-3881666\/"
+        },
+        {
+            "filename": "h2-hs-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 247253,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/beautiful-vibrant-shot-of-traditional-korean-meals\/"
+        },
+        {
+            "filename": "h2-hs-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 102187,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.foodiesfeed.com\/free-food-photo\/rosemary-lamb-shanks-with-mushrooms-and-vegetables-on-wine\/"
+        },
+        {
+            "filename": "h2-hs-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 97421,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nwmZhwOSVnM"
+        },
+        {
+            "filename": "h2-hs-img-4.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 91734,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/gXhg_1NRWjE"
+        },
+        {
+            "filename": "h2-hs-img-5.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 106721,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/cVqU6I87fjQ"
+        },
+        {
+            "filename": "h2-hs-img-6.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hs-img-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 80081,
+            "dimensions": [
+                810,
+                810
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/cLpdEA23Z44"
+        },
+        {
+            "filename": "h2-c2a-bg-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/03\/h2-c2a-bg-2-600x338.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 198663,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ZuIDLSz3XLg"
+        },
+        {
+            "filename": "h2-hc-img-1.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hc-img-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 174724,
+            "dimensions": [
+                1110,
+                930
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ZLqxSzvVr7I"
+        },
+        {
+            "filename": "h2-hc-img-2.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hc-img-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 95320,
+            "dimensions": [
+                1110,
+                930
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IWZX30xASYQ"
+        },
+        {
+            "filename": "h2-hc-img-3.jpg",
+            "thumbnail_url": "http:\/\/tempkits.ithemeslab.com\/foodkit\/wp-content\/uploads\/2020\/02\/h2-hc-img-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-page-2.json",
+                    "name": "Home Page 2"
+                }
+            ],
+            "filesize": 84742,
+            "dimensions": [
+                1110,
+                930
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pixabay.com\/photos\/green-tea-latte-tea-latte-2647523\/"
+        }
+    ]
+}

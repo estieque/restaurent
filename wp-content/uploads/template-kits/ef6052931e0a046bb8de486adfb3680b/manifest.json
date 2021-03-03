@@ -1,0 +1,755 @@
+{
+    "manifest_version": "1.0.17",
+    "title": "Foodkit Food Ordering Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Page",
+            "screenshot": "screenshots\/home-page.jpg",
+            "source": "templates\/home-page.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=home-page",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.png",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=about-us",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our menu",
+            "screenshot": "screenshots\/our-menu.png",
+            "source": "templates\/our-menu.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=our-menu",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.png",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=contact-us",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.png",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=404-page",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.png",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=coming-soon",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=header",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero Section",
+            "screenshot": "screenshots\/hero-section.png",
+            "source": "templates\/hero-section.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=hero-section",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Menu",
+            "screenshot": "screenshots\/menu.png",
+            "source": "templates\/menu.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=menu",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.png",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=testimonial",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Call To Action",
+            "screenshot": "screenshots\/call-to-action.png",
+            "source": "templates\/call-to-action.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=call-to-action",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Section",
+            "screenshot": "screenshots\/about-section.png",
+            "source": "templates\/about-section.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=about-section",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/creativedigital.tech\/foodkit\/?envato_tk_templates=footer",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.3",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.13",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.3",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "foodkit.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/foodkit.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 1482,
+            "dimensions": [
+                123,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-1.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-1-600x632.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/hero-section.json",
+                    "name": "Hero Section"
+                }
+            ],
+            "filesize": 717199,
+            "dimensions": [
+                829,
+                873
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com\/png-hamburger-street-food-seafood-fast-food-delicious-103694\/"
+        },
+        {
+            "filename": "Scrool.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Scrool.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                }
+            ],
+            "filesize": 1200,
+            "dimensions": [
+                95,
+                16
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Group-405.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-405.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 2225,
+            "dimensions": [
+                50,
+                26
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "http:\/\/www.pnhttps:\/\/www.cleanpng.comgmart.com"
+        },
+        {
+            "filename": "Group-432.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-432.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 3600,
+            "dimensions": [
+                44,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "Group-433.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-433.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 3779,
+            "dimensions": [
+                48,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "ivan-torres-MQUqbmszGGM-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/ivan-torres-MQUqbmszGGM-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 195268,
+            "dimensions": [
+                367,
+                207
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/aurelien-lemasson-theobald-x00CzBt4Dfk-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 183393,
+            "dimensions": [
+                367,
+                207
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "karthik-garikapati-oBbTc1VoT-0-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/karthik-garikapati-oBbTc1VoT-0-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 159367,
+            "dimensions": [
+                367,
+                207
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "getulio-moraes-Wz3u9_GtkWc-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/getulio-moraes-Wz3u9_GtkWc-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/menu.json",
+                    "name": "Menu"
+                }
+            ],
+            "filesize": 129820,
+            "dimensions": [
+                367,
+                207
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "Group-508.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-508-600x618.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                }
+            ],
+            "filesize": 423871,
+            "dimensions": [
+                752,
+                774
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "edgar-castrejon-1SPu0KT-Ejg-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/edgar-castrejon-1SPu0KT-Ejg-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/call-to-action.json",
+                    "name": "Call To Action"
+                }
+            ],
+            "filesize": 272540,
+            "dimensions": [
+                367,
+                290
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "calum-lewis-8Nc_oQsc2qQ-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/calum-lewis-8Nc_oQsc2qQ-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/call-to-action.json",
+                    "name": "Call To Action"
+                }
+            ],
+            "filesize": 219767,
+            "dimensions": [
+                367,
+                290
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "brooke-lark-jUPOXXRNdcA-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/brooke-lark-jUPOXXRNdcA-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/call-to-action.json",
+                    "name": "Call To Action"
+                }
+            ],
+            "filesize": 268127,
+            "dimensions": [
+                367,
+                290
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "Group-454.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-454.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 120598,
+            "dimensions": [
+                408,
+                424
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "christopher-campbell-rDEOVtE7vOs-unsplash.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/christopher-campbell-rDEOVtE7vOs-unsplash.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 12230,
+            "dimensions": [
+                78,
+                78
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9DV7XHT"
+        },
+        {
+            "filename": "Group-455.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-455-600x574.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our menu"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 393961,
+            "dimensions": [
+                843,
+                807
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "Group-497.png",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/Group-497.png",
+            "templates": [
+                {
+                    "source": "templates\/home-page.json",
+                    "name": "Home Page"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 165962,
+            "dimensions": [
+                466,
+                394
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.cleanpng.com"
+        },
+        {
+            "filename": "confident-man-dressed-in-suit-9DV7XHT.jpg",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/confident-man-dressed-in-suit-9DV7XHT-600x675.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 52442,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9DV7XHT"
+        },
+        {
+            "filename": "face-5-min.jpg",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/face-5-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 33990,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9DV7XHT"
+        },
+        {
+            "filename": "confident-male-designer-in-office-BQL3TV8.jpg",
+            "thumbnail_url": "https:\/\/creativedigital.tech\/foodkit\/wp-content\/uploads\/2020\/11\/confident-male-designer-in-office-BQL3TV8-600x675.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 55492,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BQL3TV8"
+        }
+    ]
+}
